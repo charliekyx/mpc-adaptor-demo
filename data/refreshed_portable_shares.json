@@ -1,0 +1,37 @@
+[
+  {
+    "i": 0,
+    "t": 3,
+    "n": 5,
+    "x_hex": "f8db76e931b650e5bd5e58de083b013168ea1e99414afa9b6477f7b28a4283a0",
+    "y_hex": "03ad02d55819ca3dd874b4b038a502590d9c1c09a8b1bf9025efaddac3b0aa52b4"
+  },
+  {
+    "i": 1,
+    "t": 3,
+    "n": 5,
+    "x_hex": "360130b6f8c666cfdaa27cfdb14d5a7f3a9425e79d7f3bc0d44744180ead163d",
+    "y_hex": "03ad02d55819ca3dd874b4b038a502590d9c1c09a8b1bf9025efaddac3b0aa52b4"
+  },
+  {
+    "i": 2,
+    "t": 3,
+    "n": 5,
+    "x_hex": "eba65c7df36c9c0952cb57d63ab67557c447a0a22355634a209b513293d10d86",
+    "y_hex": "03ad02d55819ca3dd874b4b038a502590d9c1c09a8b1bf9025efaddac3b0aa52b4"
+  },
+  {
+    "i": 3,
+    "t": 3,
+    "n": 5,
+    "x_hex": "19cafa3e21a8f09225d8e967a47651bed5f7f814c4f3908409fd035ba90ba5b8",
+    "y_hex": "03ad02d55819ca3dd874b4b038a502590d9c1c09a8b1bf9025efaddac3b0aa52b4"
+  },
+  {
+    "i": 4,
+    "t": 3,
+    "n": 5,
+    "x_hex": "c06f09f7837b646a53cb31b1ee8cefb09fb1c2f39033a421cfe37639beffa296",
+    "y_hex": "03ad02d55819ca3dd874b4b038a502590d9c1c09a8b1bf9025efaddac3b0aa52b4"
+  }
+]
